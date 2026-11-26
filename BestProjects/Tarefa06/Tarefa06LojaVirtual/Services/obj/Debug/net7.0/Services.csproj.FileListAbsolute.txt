@@ -1,0 +1,17 @@
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\bin\Debug\net7.0\Services.deps.json
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\bin\Debug\net7.0\Services.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\bin\Debug\net7.0\Services.pdb
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\bin\Debug\net7.0\Entidades.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\bin\Debug\net7.0\Repository.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\bin\Debug\net7.0\Entidades.pdb
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\bin\Debug\net7.0\Repository.pdb
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\refint\Services.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\Services.pdb
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa06\Tarefa06LojaVirtual\Services\obj\Debug\net7.0\ref\Services.dll

@@ -1,0 +1,15 @@
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\bin\Debug\net7.0\Tarefa01AndersonBarbosa.exe
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\bin\Debug\net7.0\Tarefa01AndersonBarbosa.deps.json
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\bin\Debug\net7.0\Tarefa01AndersonBarbosa.runtimeconfig.json
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\bin\Debug\net7.0\Tarefa01AndersonBarbosa.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\bin\Debug\net7.0\Tarefa01AndersonBarbosa.pdb
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.csproj.AssemblyReference.cache
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.AssemblyInfoInputs.cache
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.AssemblyInfo.cs
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.csproj.CoreCompileInputs.cache
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\refint\Tarefa01AndersonBarbosa.dll
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.pdb
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\Tarefa01AndersonBarbosa.genruntimeconfig.cache
+C:\Users\andde\OneDrive\Documentos\Visual Studio 2022\BestProjects\Tarefa01\Tarefa01AndersonBarbosa\Tarefa01AndersonBarbosa\obj\Debug\net7.0\ref\Tarefa01AndersonBarbosa.dll

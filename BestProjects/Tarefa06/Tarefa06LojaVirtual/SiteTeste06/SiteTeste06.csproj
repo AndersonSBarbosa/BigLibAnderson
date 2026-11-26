@@ -1,0 +1,101 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\css\alertify.bootstrap.css" />
+    <Content Remove="wwwroot\css\alertify.core.css" />
+    <Content Remove="wwwroot\css\alertify.default.css" />
+    <Content Remove="wwwroot\css\sb-admin-2.css" />
+    <Content Remove="wwwroot\css\sb-admin-2.min.css" />
+    <Content Remove="wwwroot\js\alertify.js" />
+    <Content Remove="wwwroot\js\alertify.min.js" />
+    <Content Remove="wwwroot\js\Categoria.js" />
+    <Content Remove="wwwroot\js\modernizr-2.6.2.js" />
+    <Content Remove="wwwroot\js\sb-admin-2.js" />
+    <Content Remove="wwwroot\js\sb-admin-2.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap.css" />
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap.min.css" />
+    <None Include="wwwroot\Assets\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="wwwroot\Assets\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\Assets\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="wwwroot\Assets\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="wwwroot\Assets\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\Assets\font-awesome\css\font-awesome.css" />
+    <None Include="wwwroot\Assets\font-awesome\css\font-awesome.min.css" />
+    <None Include="wwwroot\Assets\font-awesome\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\Assets\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\Assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\Assets\font-awesome\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\Assets\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\Assets\font-awesome\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\Assets\font-awesome\less\animated.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\bordered-pulled.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\core.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\fixed-width.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\font-awesome.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\icons.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\larger.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\list.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\mixins.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\path.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\rotated-flipped.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\screen-reader.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\stacked.less" />
+    <None Include="wwwroot\Assets\font-awesome\less\variables.less" />
+    <None Include="wwwroot\Assets\font-awesome\scss\font-awesome.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_animated.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_core.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_fixed-width.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_icons.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_larger.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_list.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_mixins.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_path.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_screen-reader.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_stacked.scss" />
+    <None Include="wwwroot\Assets\font-awesome\scss\_variables.scss" />
+    <None Include="wwwroot\Assets\jquery\jquery.js" />
+    <None Include="wwwroot\Assets\jquery\jquery.min.js" />
+    <None Include="wwwroot\Assets\metisMenu\metisMenu.css" />
+    <None Include="wwwroot\Assets\metisMenu\metisMenu.js" />
+    <None Include="wwwroot\Assets\metisMenu\metisMenu.min.css" />
+    <None Include="wwwroot\Assets\metisMenu\metisMenu.min.js" />
+    <None Include="wwwroot\Assets\morrisjs\morris.css" />
+    <None Include="wwwroot\Assets\morrisjs\morris.js" />
+    <None Include="wwwroot\Assets\morrisjs\morris.min.js" />
+    <None Include="wwwroot\css\alertify.bootstrap.css" />
+    <None Include="wwwroot\css\alertify.core.css" />
+    <None Include="wwwroot\css\alertify.default.css" />
+    <None Include="wwwroot\css\sb-admin-2.css" />
+    <None Include="wwwroot\css\sb-admin-2.min.css" />
+    <None Include="wwwroot\js\alertify.js" />
+    <None Include="wwwroot\js\alertify.min.js" />
+    <None Include="wwwroot\js\Categoria.js" />
+    <None Include="wwwroot\js\modernizr-2.6.2.js" />
+    <None Include="wwwroot\js\sb-admin-2.js" />
+    <None Include="wwwroot\js\sb-admin-2.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
+    <ProjectReference Include="..\Services\Services.csproj" />
+  </ItemGroup>
+
+</Project>
